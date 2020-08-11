@@ -1,0 +1,22 @@
+.funny {
+	font-style: italic;
+	color: green;
+}
+.adjust{
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	height:100vh;
+}
+
+.titlehead{
+	
+	text-align:center;
+	
+}
+
+.center{
+	display:flex;
+	align-items:center;
+	justify-content:center;
+}
